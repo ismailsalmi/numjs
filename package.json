@@ -1,0 +1,16 @@
+{
+  "name": "test_text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc ./src/index.ts && node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "ismail salmi",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
