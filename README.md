@@ -1,3 +1,4 @@
+'''
 import { numJS } from "../num-js/numjs";
 
 const { aadd, arange, sum, chunk, duplicates, ones, zeros, max, min } = numJS;
@@ -20,3 +21,4 @@ console.log(zeros(3, 4)); // [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ]
 console.log(max(arange(10, 2))); // 10
 
 console.log(min(arange(10, 2))); // 3
+'''
