@@ -1,3 +1,5 @@
+## How to use
+
 ```
 import { numJS } from "../num-js/numjs";
 
